@@ -1,13 +1,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fxa8UyRChmyT2wi5KA/giphy.gif" width="150"/>
-  <img src="../sources/img/Uni_Landscape_Pos_Lrg.png" width="225"/>
+  <img src="https://github.com/UoE-ACC/.github/blob/main/sources/img/Uni_Landscape_Pos_Lrg.png" width="225"/>
   <img src="https://media.giphy.com/media/fxa8UyRChmyT2wi5KA/giphy.gif" width="150"/>
 
 ---
 ## Aerosols, Clouds, and Climate Research Group
 [Univeristy of Exeter](https://mathematics.exeter.ac.uk/aerosol-clouds/)
 </div>
-
 
 ### Our Research
 The focus of our research is atmospheric aerosols and their roles and impacts in climate. Atmospheric aerosols consist of microscopic particles suspended in the troposphere and stratosphere. They interact with both solar and terrestrial radiation (aerosol-radiation-interactions, ARI) and with clouds (aerosol-cloud-interactions, ACI). Aerosols can also play a key role in climate feedbacks.
