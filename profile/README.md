@@ -5,7 +5,9 @@
 
 ---
 ## Aerosols, Clouds, and Climate Research Group
-[Univeristy of Exeter](https://mathematics.exeter.ac.uk/aerosol-clouds/)
+:cloud_with_lightning: [ACC](https://mathematics.exeter.ac.uk/aerosol-clouds/) 
+:cloud_with_rain: [Our Research](https://mathematics.exeter.ac.uk/aerosol-clouds/research/)
+:cloud_with_snow:
 </div>
 
 ### Our Research
@@ -17,6 +19,26 @@ The focus of our research is atmospheric aerosols and their roles and impacts in
 
 ### Funding
 
+### Current Projects
+
+
+[CLOSURE](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#closure)
+
+[ADVANCE](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#advance)
+
+[SASSO](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#sasso)
+
+[IMPRESS Malaysia](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#impress)
+
+[EXTEND](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#extend)
+
+[FORCeS](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#forces)
+
+[SOC](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#soc)
+
+[GCMTraj](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#gcmtraj)
+
+[VolcACI](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#volcaci)
 
 ### Contact
 Interested in collaborating with us? Contact [Daniel Partridge](https://mathematics.exeter.ac.uk/staff/dp410) or [Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232).
