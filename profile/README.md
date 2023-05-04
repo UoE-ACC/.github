@@ -14,9 +14,12 @@
 The focus of our research is atmospheric aerosols and their roles and impacts in climate. Atmospheric aerosols consist of microscopic particles suspended in the troposphere and stratosphere. They interact with both solar and terrestrial radiation (aerosol-radiation-interactions, ARI) and with clouds (aerosol-cloud-interactions, ACI). Aerosols can also play a key role in climate feedbacks.
 
 ### Recent Publications
- - Isokääntä S, Kim P, Mikkonen S, Kühn T, Kokkola H, Yli-Juuti T, Heikkinen L, Luoma K, Petäjä T, Kipling Z. (2022) The effect of clouds and precipitation on the aerosol concentrations and composition in a boreal forest environment, *Atmospheric Chemistry and Physics*, volume 22, no. 17, pages 11823-11843, [DOI:10.5194/acp-22-11823-2022](https://acp.copernicus.org/articles/22/11823/2022/).
- - Barrett PA, Abel SJ, Coe H, Crawford I, Dobracki A, Haywood J, Howell S, Jones A, Langridge J, McFarquhar GM. (2022) Intercomparison of airborne and surface-based measurements during the CLARIFY, ORACLES and LASIC field experiments, *Atmospheric Measurement Techniques*, volume 15, no. 21, pages 6329-6371, [DOI:10.5194/amt-15-6329-2022](https://amt.copernicus.org/articles/15/6329/2022/).
+ - Johnson BT, Haywood JM. (2023) Assessing the impact of self‐lofting on increasing the altitude of black carbon in a global climate model, Journal of Geophysical Research: Atmospheres, DOI:10.1029/2022jd038039. [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JD038039](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JD038039)
+ - Wells AF, Jones A, Osborne M, Damany-Pearce L, Partridge DG, Haywood JM. (2023) Including ash in UKESM1 model simulations of the Raikoke volcanic eruption reveals improved agreement with observations, Atmospheric Chemistry and Physics, volume 23, no. 7, pages 3985-4007, DOI:10.5194/acp-23-3985-2023. [https://acp.copernicus.org/articles/23/3985/2023/](https://acp.copernicus.org/articles/23/3985/2023/)
+ - Liang J, Haywood J. (2023) Future changes in atmospheric rivers over East Asia under stratospheric aerosol intervention, Atmospheric Chemistry and Physics, volume 23, no. 2, pages 1687-1703, DOI:10.5194/acp-23-1687-2023. [https://acp.copernicus.org/articles/23/1687/2023/](https://acp.copernicus.org/articles/23/1687/2023/)
+ - Heikkinen L, Partridge DG, Huang W, Blichner S, Ranjan R, Tovazzi E, Petäjä T, Mohr C, Riipinen I. (2023) Cloud response to co-condensation of water and organic vapors over the boreal forest, volume 2023, pages 1-42, DOI:10.5194/egusphere-2023-164. [https://egusphere.copernicus.org/preprints/2023/egusphere-2023-164/](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-164/)
 
+ 
 ### Funding
 
 ### Current Projects
@@ -45,4 +48,4 @@ Interested in collaborating with us? Contact [Daniel Partridge](https://mathemat
 
 ---
 
-[Current weather observations](https://empslocal.ex.ac.uk/uoeweather/graphs/)
+[Current weather observations at Exeter University](https://empslocal.ex.ac.uk/uoeweather/graphs/)
