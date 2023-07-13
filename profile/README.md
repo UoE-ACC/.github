@@ -1,3 +1,7 @@
+<!-- ####################################################################### -->
+<!-- ------------------------------- HEADING ------------------------------- -->
+<!-- _______________________________________________________________________ -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fxa8UyRChmyT2wi5KA/giphy.gif" width="150"/>
   <img src="https://github.com/UoE-ACC/.github/blob/main/sources/img/Uni_Landscape_Pos_Lrg.png" width="225"/>
@@ -5,10 +9,15 @@
 
 ---
 ## Aerosols, Clouds, and Climate Research Group
-:cloud_with_lightning: [ACC](https://mathematics.exeter.ac.uk/aerosol-clouds/) 
+:cloud_with_lightning: [ACC](https://mathematics.exeter.ac.uk/aerosol-clouds/)
 :cloud_with_rain: [Our Research](https://mathematics.exeter.ac.uk/aerosol-clouds/research/)
 :cloud_with_snow:
+
 </div>
+
+<!-- ####################################################################### -->
+<!-- -------------------------------- BODY --------------------------------- -->
+<!-- _______________________________________________________________________ -->
 
 ### Our Research
 The focus of our research is atmospheric aerosols and their roles and impacts in climate. Atmospheric aerosols consist of microscopic particles suspended in the troposphere and stratosphere. They interact with both solar and terrestrial radiation (aerosol-radiation-interactions, ARI) and with clouds (aerosol-cloud-interactions, ACI). Aerosols can also play a key role in climate feedbacks.
@@ -19,7 +28,7 @@ The focus of our research is atmospheric aerosols and their roles and impacts in
  - Liang J, Haywood J. (2023) Future changes in atmospheric rivers over East Asia under stratospheric aerosol intervention, Atmospheric Chemistry and Physics, volume 23, no. 2, pages 1687-1703, DOI:10.5194/acp-23-1687-2023. [https://acp.copernicus.org/articles/23/1687/2023/](https://acp.copernicus.org/articles/23/1687/2023/)
  - Heikkinen L, Partridge DG, Huang W, Blichner S, Ranjan R, Tovazzi E, Petäjä T, Mohr C, Riipinen I. (2023) Cloud response to co-condensation of water and organic vapors over the boreal forest, volume 2023, pages 1-42, DOI:10.5194/egusphere-2023-164. [https://egusphere.copernicus.org/preprints/2023/egusphere-2023-164/](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-164/)
 
- 
+
 ### Funding
 
 ### Current Projects
