@@ -25,7 +25,11 @@ The focus of our research is atmospheric aerosols and their roles and impacts in
 ### Recent Publications
 ## Daniel Partridge
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
-<!-- >>> REPLACE STRING : PARTRIDGE PUBLICATION LIST >>> -->
+ - Challenges in constraining anthropogenic aerosol effects on cloud radiative forcing using present-day spatiotemporal variability, 2016, Proceedings of the National Academy of Sciences, 
+ - Inverse modelling of Köhler theory – Part 1: A response surface analysis of CCN spectra with respect to surface-active organic species, 2016, Atmospheric Chemistry and Physics, 
+ - On the characteristics of aerosol indirect effect based on dynamic regimes in global climate models, 2016, Atmospheric Chemistry and Physics, 
+ - The importance of temporal collocation for the evaluation of aerosol models with observations, 2016, Atmospheric Chemistry and Physics, 
+ - Links between satellite-retrieved aerosol and precipitation, 2014, Atmospheric Chemistry and Physics, 
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
 
 ## Jim Haywood
