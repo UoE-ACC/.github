@@ -62,7 +62,7 @@ The focus of our research is atmospheric aerosols and their roles and impacts in
 
 [VolcACI](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#volcaci)
 
-### Contact
+## Contact
 Interested in collaborating with us? Contact [Daniel Partridge](https://mathematics.exeter.ac.uk/staff/dp410) or [Jim Haywood](https://mathematics.exeter.ac.uk/staff/jmh232).
 
 ---
