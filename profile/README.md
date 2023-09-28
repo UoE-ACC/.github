@@ -13,7 +13,6 @@
 :cloud_with_rain: [Our Research](https://mathematics.exeter.ac.uk/aerosol-clouds/research/)
 :cloud_with_snow:
 
-
 </div>
 
 <!-- ####################################################################### -->
@@ -24,12 +23,19 @@
 The focus of our research is atmospheric aerosols and their roles and impacts in climate. Atmospheric aerosols consist of microscopic particles suspended in the troposphere and stratosphere. They interact with both solar and terrestrial radiation (aerosol-radiation-interactions, ARI) and with clouds (aerosol-cloud-interactions, ACI). Aerosols can also play a key role in climate feedbacks.
 
 ### Recent Publications
- - Fang C, Haywood JM, Liang J, Johnson BT, Chen Y, Zhu B. (2023) Impacts of reducing scattering and absorbing aerosols on the temporal extent and intensity of South Asian summer monsoon and East Asian summer monsoon, Atmospheric Chemistry and Physics, volume 23, no. 14, pages 8341-8368, DOI:10.5194/acp-23-8341-2023. [http://dx.doi.org/10.5194/acp-23-8341-2023](http://dx.doi.org/10.5194/acp-23-8341-2023)
- - Block K, Haghighatnasab M, Partridge DG, Stier P, Quaas J. (2023) Cloud condensation nuclei concentrations derived from the CAMS reanalysis, volume 2023, pages 1-33, DOI:10.5194/essd-2023-172. [http://dx.doi.org/10.5194/essd-2023-172](http://dx.doi.org/10.5194/essd-2023-172)
- - Johnson BT, Haywood JM. (2023) Assessing the impact of self‐lofting on increasing the altitude of black carbon in a global climate model, Journal of Geophysical Research: Atmospheres, DOI:10.1029/2022jd038039. [https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JD038039](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JD038039)
- - Wells AF, Jones A, Osborne M, Damany-Pearce L, Partridge DG, Haywood JM. (2023) Including ash in UKESM1 model simulations of the Raikoke volcanic eruption reveals improved agreement with observations, Atmospheric Chemistry and Physics, volume 23, no. 7, pages 3985-4007, DOI:10.5194/acp-23-3985-2023. [https://acp.copernicus.org/articles/23/3985/2023/](https://acp.copernicus.org/articles/23/3985/2023/)
- - Liang J, Haywood J. (2023) Future changes in atmospheric rivers over East Asia under stratospheric aerosol intervention, Atmospheric Chemistry and Physics, volume 23, no. 2, pages 1687-1703, DOI:10.5194/acp-23-1687-2023. [https://acp.copernicus.org/articles/23/1687/2023/](https://acp.copernicus.org/articles/23/1687/2023/)
- - Heikkinen L, Partridge DG, Huang W, Blichner S, Ranjan R, Tovazzi E, Petäjä T, Mohr C, Riipinen I. (2023) Cloud response to co-condensation of water and organic vapors over the boreal forest, volume 2023, pages 1-42, DOI:10.5194/egusphere-2023-164. [https://egusphere.copernicus.org/preprints/2023/egusphere-2023-164/](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-164/)
+## Daniel Partridge
+<!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
+<!-- >>> REPLACE STRING : PARTRIDGE PUBLICATION LIST >>> -->
+<!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
+
+## Jim Haywood
+<!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
+ - Evidence that deliberate marine cloud brightening can be more effective than previously thought, 2023, , https://doi.org/10.21203/rs.3.rs-3291831/v1
+ - Impacts of reducing scattering and absorbing aerosols on the temporal extent and intensity of South Asian summer monsoon and East Asian summer monsoon, 2023, Atmospheric Chemistry and Physics, https://doi.org/10.5194/acp-23-8341-2023
+ - Climate Intervention using marine cloud brightening (MCB) compared with stratospheric aerosol injection (SAI) in the UKESM1 climate model, 2023, , https://doi.org/10.5194/egusphere-2023-1611
+ - Biomass-burning smoke properties and its interactions with marine stratocumulus clouds in WRF-CAM5 and southeastern Atlantic field campaigns, 2023, , https://doi.org/10.5194/egusphere-2023-886
+ - Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy, 2023, , https://doi.org/10.5194/egusphere-2023-980
+<!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
 
 
 ### Funding
