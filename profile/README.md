@@ -42,10 +42,7 @@ The focus of our research is atmospheric aerosols and their roles and impacts in
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
 
 
-### Funding
-
-### Current Projects
-
+## Current Projects
 
 [CLOSURE](https://mathematics.exeter.ac.uk/aerosol-clouds/research/#closure)
 
