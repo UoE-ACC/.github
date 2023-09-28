@@ -22,8 +22,8 @@
 ### Our Research
 The focus of our research is atmospheric aerosols and their roles and impacts in climate. Atmospheric aerosols consist of microscopic particles suspended in the troposphere and stratosphere. They interact with both solar and terrestrial radiation (aerosol-radiation-interactions, ARI) and with clouds (aerosol-cloud-interactions, ACI). Aerosols can also play a key role in climate feedbacks.
 
-### Recent Publications
-## Daniel Partridge
+## Recent Publications
+### Daniel Partridge
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
  - Challenges in constraining anthropogenic aerosol effects on cloud radiative forcing using present-day spatiotemporal variability, 2016, Proceedings of the National Academy of Sciences, 
  - Inverse modelling of Köhler theory – Part 1: A response surface analysis of CCN spectra with respect to surface-active organic species, 2016, Atmospheric Chemistry and Physics, 
@@ -32,7 +32,7 @@ The focus of our research is atmospheric aerosols and their roles and impacts in
  - Links between satellite-retrieved aerosol and precipitation, 2014, Atmospheric Chemistry and Physics, 
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
 
-## Jim Haywood
+### Jim Haywood
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
  - Evidence that deliberate marine cloud brightening can be more effective than previously thought, 2023, , https://doi.org/10.21203/rs.3.rs-3291831/v1
  - Impacts of reducing scattering and absorbing aerosols on the temporal extent and intensity of South Asian summer monsoon and East Asian summer monsoon, 2023, Atmospheric Chemistry and Physics, https://doi.org/10.5194/acp-23-8341-2023
