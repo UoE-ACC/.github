@@ -25,20 +25,20 @@ The focus of our research is atmospheric aerosols and their roles and impacts in
 ## Recent Publications
 ### Daniel Partridge
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
- - Challenges in constraining anthropogenic aerosol effects on cloud radiative forcing using present-day spatiotemporal variability, 2016, Proceedings of the National Academy of Sciences, 
- - Inverse modelling of Köhler theory – Part 1: A response surface analysis of CCN spectra with respect to surface-active organic species, 2016, Atmospheric Chemistry and Physics, 
- - On the characteristics of aerosol indirect effect based on dynamic regimes in global climate models, 2016, Atmospheric Chemistry and Physics, 
- - The importance of temporal collocation for the evaluation of aerosol models with observations, 2016, Atmospheric Chemistry and Physics, 
- - Links between satellite-retrieved aerosol and precipitation, 2014, Atmospheric Chemistry and Physics, 
+-Karoline Block, Mahnoosh Haghighatnasab, Daniel G. Partridge, et. al., 2023, Cloud condensation nuclei concentrations derived from the CAMS reanalysis, Copernicus GmbH, doi=10.5194/essd-2023-172
+-George Jordan, James Haywood, Florent Malavelle, et. al., 2023, How well are aerosol-cloud interactions represented in climate models? Part 1: Understanding the sulphate aerosol production from the 2014–15 Holuhraun eruption, Copernicus GmbH, doi=10.5194/egusphere-2023-619
+-Alice F. Wells, Andy Jones, Martin Osborne, et. al., 2023, Including ash in UKESM1 model simulations of the Raikoke volcanic eruption reveals improved agreement with observations, Copernicus GmbH, doi=10.5194/acp-23-3985-2023
+-Liine Heikkinen, Daniel G. Partridge, Wei Huang, et. al., 2023, Cloud response to co-condensation of water and organic vapors over the boreal forest, Copernicus GmbH, doi=10.5194/egusphere-2023-164
+-Alice F. Wells, Andy Jones, Martin Osborne, et. al., 2022, Including ash in UKESM1 model simulations of the Raikoke volcanic eruption reveal improved agreement with observations, Copernicus GmbH, doi=10.5194/egusphere-2022-1060
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
 
 ### Jim Haywood
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
- - Evidence that deliberate marine cloud brightening can be more effective than previously thought, 2023, , https://doi.org/10.21203/rs.3.rs-3291831/v1
- - Impacts of reducing scattering and absorbing aerosols on the temporal extent and intensity of South Asian summer monsoon and East Asian summer monsoon, 2023, Atmospheric Chemistry and Physics, https://doi.org/10.5194/acp-23-8341-2023
- - Climate Intervention using marine cloud brightening (MCB) compared with stratospheric aerosol injection (SAI) in the UKESM1 climate model, 2023, , https://doi.org/10.5194/egusphere-2023-1611
- - Biomass-burning smoke properties and its interactions with marine stratocumulus clouds in WRF-CAM5 and southeastern Atlantic field campaigns, 2023, , https://doi.org/10.5194/egusphere-2023-886
- - Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy, 2023, , https://doi.org/10.5194/egusphere-2023-980
+-Dawei Hu, M. Rami Alfarra, Kate Szpek, et. al., 2023, Refractive Index of Engine‐Emitted Black Carbon and the Influence of Organic Coatings on Optical Properties, American Geophysical Union (AGU), doi=10.1029/2023jd039178
+-Chenwei Fang, Jim M. Haywood, Ju Liang, et. al., 2023, Impacts of reducing scattering and absorbing aerosols on the temporal extent and intensity of South Asian summer monsoon and East Asian summer monsoon, Copernicus GmbH, doi=10.5194/acp-23-8341-2023
+-James Matthew Haywood, Andy Jones, Anthony Crawford Jones, et. al., 2023, Climate Intervention using marine cloud brightening (MCB) compared with stratospheric aerosol injection (SAI) in the UKESM1 climate model, Copernicus GmbH, doi=10.5194/egusphere-2023-1611
+-Calvin Howes, Pablo E. Saide, Hugh Coe, et. al., 2023, Biomass-burning smoke properties and its interactions with marine stratocumulus clouds in WRF-CAM5 and southeastern Atlantic field campaigns, Copernicus GmbH, doi=10.5194/egusphere-2023-886
+-Matthew Henry, Jim Haywood, Andy Jones, et. al., 2023, Comparison of UKESM1 and CESM2 Simulations Using the Same Multi-Target Stratospheric Aerosol Injection Strategy, Copernicus GmbH, doi=10.5194/egusphere-2023-980
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
 
 
