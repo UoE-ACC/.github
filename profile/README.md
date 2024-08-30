@@ -25,20 +25,20 @@ The focus of our research is atmospheric aerosols and their roles and impacts in
 ## Recent Publications
 ### Daniel Partridge
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
+- Johannes Mülmenstädt, Edward Gryspeerdt, Sudhakar Dipu, et. al., 2024, General circulation models simulate negative liquid water path–droplet number correlations, but anthropogenic aerosols still increase simulated liquid water path, Copernicus GmbH, https://doi.org/10.5194/acp-24-7331-2024
 - Liine Heikkinen, Daniel G. Partridge, Sara Blichner, et. al., 2024, Cloud response to co-condensation of water and organic vapors over the boreal forest, Copernicus GmbH, https://doi.org/10.5194/acp-24-5117-2024
 - Ying Chen, Jim Haywood, Yu Wang, et. al., 2024, Substantial cooling effect from aerosol-induced increase in tropical marine cloud cover, Springer Science and Business Media LLC, https://doi.org/10.1038/s41561-024-01427-z
 - Karoline Block, Mahnoosh Haghighatnasab, Daniel G. Partridge, et. al., 2024, Cloud condensation nuclei concentrations derived from the CAMS reanalysis, Copernicus GmbH, https://doi.org/10.5194/egusphere-egu24-21392
 - Roxana S. Cremer, Paul Kim, Sara M. Blichner, et. al., 2024, Investigating the role of air mass history of Arctic black carbon in GCMs, Copernicus GmbH, https://doi.org/10.5194/egusphere-egu24-18277
-- George Jordan, Florent Malavelle, Ying Chen, et. al., 2024, How well are aerosol–cloud interactions represented in climate models? – Part 1: Understanding the sulfate aerosol production from the 2014–15 Holuhraun eruption, Copernicus GmbH, https://doi.org/10.5194/acp-24-1939-2024
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
 
 ### Jim Haywood
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
+- Philip Stier, Susan C. van den Heever, Matthew W. Christensen, et. al., 2024, Multifaceted aerosol effects on precipitation, Springer Science and Business Media LLC, https://doi.org/10.1038/s41561-024-01482-6
+- Matthew Henry, Ewa M. Bednarz, Jim Haywood, 2024, How Does the Latitude of Stratospheric Aerosol Injection Affect the Climate in UKESM1?, Copernicus GmbH, https://doi.org/10.5194/egusphere-2024-1565
 - Philip Rasch, Haruki Hirasawa, Mingxuan Wu, et. al., 2024, A protocol for model intercomparison of impacts of Marine Cloud Brightening Climate Intervention, Copernicus GmbH, https://doi.org/10.5194/egusphere-2024-1031
 - Ying Chen, Jim Haywood, Yu Wang, et. al., 2024, Substantial cooling effect from aerosol-induced increase in tropical marine cloud cover, Springer Science and Business Media LLC, https://doi.org/10.1038/s41561-024-01427-z
 - Daniele Visioni, Alan Robock, Jim Haywood, et. al., 2024, G6-1.5K-SAI: a new Geoengineering Model Intercomparison Project (GeoMIP) experiment integrating recent advances  in solar radiation modification studies, Copernicus GmbH, https://doi.org/10.5194/gmd-17-2583-2024
-- Alice F. Wells, Matthew Henry, Ewa M. Bednarz, et. al., 2024, Identifying Climate Impacts From Different Stratospheric Aerosol Injection Strategies in UKESM1, American Geophysical Union (AGU), https://doi.org/10.1029/2023ef004358
-- Graham Feingold, Virendra P. Ghate, Lynn M. Russell, et. al., 2024, Physical science research needed to evaluate the viability and risks of marine cloud brightening, American Association for the Advancement of Science (AAAS), https://doi.org/10.1126/sciadv.adi8594
 <!-- DO NOT MODIFY THESE COMMENT STRINGS, USED AUTO REPLACE IN write_profiles.py -->
 
 ### Featured Repos
